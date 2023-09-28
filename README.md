@@ -1,2 +1,2 @@
 # SQL
-[Patika.dev](https://www.patika.dev) sitesindeki [Java ile Backend Web Development Patikası/ SQL](https://app.patika.dev/moduller/sql) modülünde bulunan ödevleri yaptığım repo.
+The repo where I do the assignments from module [Backend Web Development Path with Java/ SQL](https://academy.patika.dev/courses/sql) on [Patika.dev](https://www.patika.dev).
